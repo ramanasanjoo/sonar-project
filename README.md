@@ -14,3 +14,4 @@ see [multi-module Maven project](../maven-multimodule/README.md)
 ## Documentation
 
 [SonarScanner for Maven](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-maven/)
+# sonar-project
